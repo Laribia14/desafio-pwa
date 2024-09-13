@@ -1,0 +1,10 @@
+{
+    "short_name": "GeoApp",
+    "name": "Aplicativo de Geolocalização PWA",
+    "description": "Um aplicativo progressivo que usa geolocalização para mostrar a localização atual do usuário.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#e0f7fa",
+    "theme_color": "#00796b"
+}
+
